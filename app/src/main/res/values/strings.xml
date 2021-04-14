@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spacehack</string>
+    <string name="facebook_app_id">4212963985403803</string> <string name="fb_login_protocol_scheme">fb4212963985403803</string>
+</resources>
